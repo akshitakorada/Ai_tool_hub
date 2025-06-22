@@ -1,5 +1,4 @@
 # AI Tool Hub 🚀
-### 🏆 Sus Hacks 2024 Winner | First Prize | ₹15,000
 
 ## About
 AI Tool Hub is your one-stop destination for discovering and exploring AI tools. Built during Sus Hacks 2024, this platform helps users navigate through various AI solutions by matching their specific needs with the right tools.
@@ -44,16 +43,8 @@ npm run dev
 - Business Automation
 - And many more!
 
-## 🏆 Awards
-- First Prize Winner at Sus Hacks 2024
-- Cash Prize: ₹15,000
-- Recognition for Innovation in AI Tool Discovery
-
-## 👥 Team
-G. Jathin, CH. Yugandhar, E. Sai Kiran, K. Bangaraju
 
 ## 🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
-Built with ❤️ during Sus Hacks 2024
